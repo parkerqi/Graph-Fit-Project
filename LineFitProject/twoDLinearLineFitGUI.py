@@ -22,13 +22,3 @@ e2.insert(0, '16, 40, 43')
 b1.place(x=30, y=60)
 master.mainloop()
 
-
-
-
-
-
-
-
-
-
-
